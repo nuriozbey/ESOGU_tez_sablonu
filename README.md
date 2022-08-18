@@ -1,9 +1,9 @@
-# ESOGÜ FBE için LaTeX şablonu üzerinden "Yüz İfadelerinin Görüntü İşleme Temelli Tanınması" çalışması için düzenlenmiştir.
+# ESOGÜ FBE için LaTeX şablonu üzerinden 2022 Yılı için yeniden düzenlenmiştir.
 
-##English
+## English
 An unofficial LaTeX thesis template for Eskisehir Osmangazi University. Approved in Spring Semester 2022.
 
-##Türkçe
+## Türkçe
 
 Eskişehir Osmangazi Üniversitesi Fen Bilimleri Enstitüsü [Tez Yazım Kılavuzuna] uygun bir LaTeX tez şablonu. Şablon FBE tarafından 2022 Haziran ayında cilt onay alınarak onaylanmamıştır. 
 
